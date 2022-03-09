@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ra-rn-first-app",
-    "slug": "ra-rn-first-app",
+    "name": "ra-mrn-first-app",
+    "slug": "ra-mrn-first-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
